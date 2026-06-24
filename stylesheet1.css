@@ -1,0 +1,30 @@
+#social {
+        background-color: #2f3550;
+        padding : 40 px;
+        color: white;
+}
+
+.h4 {
+    color: orange;
+}
+
+.links {
+    display: flex;
+    gap: 10 px; 
+    margin-top: 20 px;
+}
+
+.links a {
+  padding: 10px 20px;
+  border: 1px solid orange;
+  color: white;
+  text-decoration: none;
+}
+
+.email {
+  background: orange;
+  color: black !important;
+}
+
+/*  for reffreing to the classes we use the # ,,, eg- >#social  */
+/* for refferin gto the ids we use the . ,,,,  eg-> .links  */
